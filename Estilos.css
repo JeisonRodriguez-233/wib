@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    font-family: Impact;
+    font-style: italic;
+    font-weight: 900;
+}
+h2{
+    color: red;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: 700;
+}
+h3{
+    color: green;
+    font-family: 'Segoe UI';
+    font-style: oblique;
+    font-weight: 500;
+}
+body{
+    background-color: darkgoldenrod;
+    background-image: -moz-linear-gradient(black);
+    background-image: url(web.webp);
+}
+p{
+    font-style: inherit ;
+    font-weight: 500;
+}
+img{
+    width: 60%;
+}
